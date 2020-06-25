@@ -1,0 +1,6 @@
+C:\Users\Igor2\source\repos\MatSort\bin\Debug\MatSort.exe.config
+C:\Users\Igor2\source\repos\MatSort\bin\Debug\MatSort.exe
+C:\Users\Igor2\source\repos\MatSort\bin\Debug\MatSort.pdb
+C:\Users\Igor2\source\repos\MatSort\obj\Debug\MatSort.csprojAssemblyReference.cache
+C:\Users\Igor2\source\repos\MatSort\obj\Debug\MatSort.exe
+C:\Users\Igor2\source\repos\MatSort\obj\Debug\MatSort.pdb
